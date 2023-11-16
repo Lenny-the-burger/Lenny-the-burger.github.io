@@ -6,6 +6,12 @@ If the file does not start with a header, then the post title will be derived fr
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
+$$E=mc^2$$
+
+Test test $$\text{distance}(a, b)$$
+
+$$\operatorname{distance}(a, b)$$
+
 ---
 
 ### This is a header
